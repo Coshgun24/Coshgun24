@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coshgun24&label=Profile%20views&color=0e75b6&style=flat" alt="coshgun24" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coshgun24" alt="coshgun24" /></a> </p>
-
 - 📫 **joshgunrahimli@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
