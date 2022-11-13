@@ -12,7 +12,7 @@
 <a href="https://kaggle.com/coshgunrahimli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="coshgunrahimli" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/coshgunrehimli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="coshgunrehimli" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/joshgunrahimli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="joshgunrahimli" height="30" width="40" /></a>
-<a href="discordapp.com/users/5170" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="5170" height="30" width="40" /></a>
+<a href="discordapp.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="5170" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
