@@ -4,6 +4,10 @@
 <h1 align="center">Hi 👋, I'm Joshgun</h1>
 <h3 align="center">I'm a Data Scientist from Azerbaijan</h3>
 
+
+
+
+
 # Technologies used
 
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
