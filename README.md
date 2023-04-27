@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joshgun</h1>
-<h3 align="center">I'm a Data Analyst from Azerbaijan</h3>
+<h3 align="center">I'm a Data Scientist from Azerbaijan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coshgun24&label=Profile%20views&color=0e75b6&style=flat" alt="coshgun24" /> </p>
 
